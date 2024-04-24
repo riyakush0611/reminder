@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run --server.headless true UU/m.py
+web: sh setup.sh && streamlit run --server.headless true m.py
